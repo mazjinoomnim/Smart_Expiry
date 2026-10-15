@@ -1,0 +1,1 @@
+SmartExpiry: empty My Products on first visit. Upload index.html, app.js, style.css to the ROOT of GitHub repository Smart_Expiry. Scan ?product=milk or ?product=burger to view details and add. Saves in this browser only (localStorage). Older demo seeded products are not imported.
